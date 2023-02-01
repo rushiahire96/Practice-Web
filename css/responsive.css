@@ -1,0 +1,19 @@
+@media only screen and (max-width:575px){
+    /* body{border:solid red;} */
+    footer .col-6{
+        /* border:solid white; */
+        padding-left: 12%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    /* .slider_content{display: none;} */
+    .logo{
+        /* border:solid; */
+        text-align: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .right_aligned_menu{
+        justify-content: center !important;
+    }
+} 

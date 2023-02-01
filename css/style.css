@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;font-weight: 300;
+}
+.brands,.categories.all_products,.top_section{
+   /* border: solid;*/ padding: 20px 0;
+}
+.brand_list a{
+    color: #000;
+}
+.brand_list a:hover,.categories a:hover{color: rgb(216, 7, 7);}
+.slider_content{
+    padding-top: 80px;
+    padding-left: 40px;
+}
+.slider{
+    background-color: /*lightgray;*/
+}
+.menu{
+    padding: 20px 0;
+}
+.menu .bg-light{
+    background-color: #fff !important;
+    border-bottom: 1px solid #ccc;
+}
+.top_section a{
+    color: #000;
+}
+.top_section a:hover{color: rgb(247, 150, 4);}
+footer{
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+}
+footer h2{
+    font-size: 20px;
+}
+footer a{
+    color:#999 !important;
+}
+footer a:hover{
+    color: #666 !important;
+}
